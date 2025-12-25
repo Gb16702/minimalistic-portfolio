@@ -5,15 +5,15 @@ import { Skill } from "./components/Skill";
 export default function Home() {
   return (
     <>
-      <header className="container font-medium mt-8">
+      <header className="container font-normal mt-8">
         <p className="text-muted-foreground">
           I work at Ortelius as a frontend and backend developer. I've been
           coding for 4 years. I'm passionate about crafting clean user
           interfaces and thoughtful user experiences.
         </p>
         <p className="mt-4 text-muted-foreground">
-          In my free time, I'm learning Korean. I also enjoy sports, music, and
-          fashion.
+          In my free time, I'm learning Korean. I also enjoy combat sports,
+          fitness, music, and fashion.
         </p>
       </header>
       <section id="experience" className="container mt-12 sm:mt-16">
@@ -81,7 +81,7 @@ export default function Home() {
               </svg>
             }
             title="React"
-            description="I build user interfaces with Next.js, and React Router, focusing on component reusability."
+            description="I build user interfaces with Next.js, React Router and Tanstack Start, focusing on component reusability."
           />
           <Skill
             icon={

@@ -14,7 +14,7 @@ export default function MainLayout({
       </nav>
       <div className="container mt-1">
         <h1 className="inline font-medium text-muted-foreground">
-          Software Developer, remote
+          Software Developer
         </h1>
       </div>
       <main>{children}</main>
