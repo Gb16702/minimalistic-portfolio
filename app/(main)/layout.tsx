@@ -13,9 +13,7 @@ export default function MainLayout({
         </Link>
       </nav>
       <div className="container mt-1">
-        <h1 className="inline font-medium text-muted-foreground">
-          Software Developer
-        </h1>
+        <h1 className="inline">Software Developer</h1>
       </div>
       <main>{children}</main>
     </div>

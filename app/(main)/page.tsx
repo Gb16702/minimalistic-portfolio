@@ -6,10 +6,10 @@ export default function Home() {
   return (
     <>
       <header className="container font-normal mt-8">
-        <p className="text-muted-foreground">
-          I work at Ortelius as a frontend and backend developer. I've been
-          coding for 4 years. I'm passionate about crafting clean user
-          interfaces and thoughtful user experiences.
+        <p className="text-muted-foreground font-normal">
+          I work at Ortelius as a full-stack developer. I've been coding for 4
+          years. I'm passionate about crafting clean user interfaces and
+          thoughtful user experiences.
         </p>
         <p className="mt-4 text-muted-foreground">
           In my free time, I'm learning Korean. I also enjoy combat sports,
